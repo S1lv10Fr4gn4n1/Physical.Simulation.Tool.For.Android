@@ -11,3 +11,11 @@
 *.lai
 *.la
 *.a
+
+# Compiled Java/Android
+*.apk
+*.dex
+*.class
+*.jar
+*.o.d
+
