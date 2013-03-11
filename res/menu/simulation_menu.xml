@@ -1,0 +1,15 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android" >
+
+    <item
+        android:id="@+id/generate_randon_simulation"
+        android:title="@string/label_generate_randon_simulation"/>
+    
+    <item
+        android:id="@+id/clean_simulation"
+        android:title="@string/label_clean_simulation"/>
+    
+    <item
+        android:id="@+id/menu_settings"
+        android:title="@string/label_settings"/>
+
+</menu>

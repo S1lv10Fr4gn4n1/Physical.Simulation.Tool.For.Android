@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    
+    <string name="msg_ferramenta">PROTÓTIPO DE UMA FERRAMENTA GRÁFICA PARA CRIAÇÃO DE SIMULAÇÕES NA ÁREA DA FÍSICA EM DISPOSITIVOS MÓVEIS</string>
+    <string name="msg_frase_einstein">Não há nada que seja maior evidência de insanidade do que fazer a mesma coisa dia após dia e esperar resultados diferentes. (Albert Einstein)</string>
+    <string name="msg_tell_number_objects">Tell the number of objects</string>
+    
+</resources>
